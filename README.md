@@ -16,6 +16,10 @@ This kit helps consultants, SMBs and B2B teams evaluate how visible, accurate an
 - Sample report
 - Example brand analysis
 - Operational checklist
+- Audit execution guide
+- Example audit output
+- Roadmap
+- Changelog
 
 ## Use case
 
@@ -32,6 +36,13 @@ A Moroccan B2B service provider can test prompts such as:
 
 The answers are scored across entity clarity, source consistency, answer presence, citation readiness, structured content and reputation signals.
 
+## Documentation
+
+- [How to run an AI visibility audit](docs/how-to-run-an-audit.md)
+- [Example audit output](docs/example-output.md)
+- [Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
+
 ## How to use
 
 1. Fill in `audit-template.md`.
@@ -43,6 +54,12 @@ The answers are scored across entity clarity, source consistency, answer presenc
 ## Business value
 
 The audit turns AI visibility from a vague concept into a measurable business review. It helps teams decide what content, source alignment and reputation work should come first.
+
+## Disclaimer
+
+This project does not guarantee rankings, citations or recommendations in AI-generated answers.
+
+It provides a practical framework to evaluate AI visibility gaps and prioritize improvements across content, entity clarity, public sources and reputation signals.
 
 ## Author
 
